@@ -1,4 +1,4 @@
-# Add2Num — Cộng 2 Số Lớn
+# Add2Num — Chương trình cộng 2 số tự nhiên theo thứ tự từ phải sang trái
 
 **Phiên bản:** `0.0.1`
 
@@ -97,7 +97,7 @@ Sau khi chạy xong, thư mục `Add2Num` sẽ xuất hiện trên máy bạn.
 
 ## 4. Yêu cầu về môi trường trước khi biên dịch
 
-Bạn cần cài trình biên dịch **g++ (MinGW)** trên máy Windows.
+Cài đặt trình biên dịch **g++ (MinGW)** trên máy Windows.
 
 | Bước | Hướng dẫn |
 |------|-----------|
